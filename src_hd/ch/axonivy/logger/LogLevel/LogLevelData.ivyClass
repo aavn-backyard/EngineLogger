@@ -1,0 +1,6 @@
+LogLevelData #class
+ch.axonivy.logger.LogLevel #namespace
+logLevels java.util.List<org.apache.log4j.Level> #field
+logLevels PERSISTENT #fieldModifier
+selectedLevel org.apache.log4j.Level #field
+selectedLevel PERSISTENT #fieldModifier
